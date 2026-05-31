@@ -15,6 +15,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
+3. Install Expo Go from playstore
+
+4. Open Expo Go and paste the url link and view the app 
+
+Simple
 
 In the output, you'll find options to open the app in a
 
