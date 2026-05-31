@@ -2,6 +2,13 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+
+# Screenshots of the app
+
+![Calculator Screen](./assets/images/calculator.jpg)
+![Currency Exchange Screen](./assets/images/currency.jpg)
+![Crypto Currencies Screen](./assets/images/crypto.jpg)
+
 ## Get started
 
 1. Install dependencies
