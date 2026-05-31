@@ -17,20 +17,20 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
      gitclone:https://github.com/novasec-spec/CalculatorPro.git
      cd ~/CalculatorPro
      ```
-1. Install dependencies
+2. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+3. Start the app
 
    ```bash
    npx expo start
    ```
-3. Install Expo Go from playstore
+4. Install Expo Go from playstore
 
-4. Open Expo Go and paste the url link and view the app 
+5. Open Expo Go and paste the url link and view the app 
 
 Enjoy 
 
@@ -44,14 +44,14 @@ In the output, you'll find options to open the app in a
 
 ## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
+To learn more about developing your project with Novasec Technologies, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- [Novasec documentation](https://docs.novasec.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.novasec.dev/guides).
+- [Learn Novasec tutorial](https://docs.novasec.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
 ## Join the community
 
 Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [Contact Developer](technologiesnovasec@gmail.com): View our open source platform and contribute.
+- [Discord community](https://chat.novasec.dev): Chat with Novasec users and ask questions.
