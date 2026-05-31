@@ -53,5 +53,5 @@ To learn more about developing your project with Novasec Technologies, look at t
 
 Join our community of developers creating universal apps.
 
-- [Contact Developer](technologiesnovasec@gmail.com): View our open source platform and contribute.
+- [Contact Developer](mailto:technologiesnovasec@gmail.com): View our open source platform and contribute.
 - [Discord community](https://chat.novasec.dev): Chat with Novasec users and ask questions.
